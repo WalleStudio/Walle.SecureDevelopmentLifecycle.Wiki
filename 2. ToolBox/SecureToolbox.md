@@ -7,14 +7,6 @@
 - [Why Fuzzing?](./Concepts/Fuzzing-Basics.md)
 - [OWASP Mobile Security](./Concepts/OWASP.md)
 
-## Secure Coding Guide
-
-### Android Secure Coding Standard 
-
-> Carnegie Mellon University 
-> wiki https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard 
-
-
 ## Secure Code Analysis 
 
 ### Coverity Static Analysis.
