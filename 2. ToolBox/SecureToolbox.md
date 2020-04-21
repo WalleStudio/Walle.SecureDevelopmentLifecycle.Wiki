@@ -11,13 +11,13 @@
 - [Why Fuzzing?](./Concepts/Fuzzing-Basics.md)
 - [OWASP Mobile Security](..\99.Concepts\OWASP.md) 
 
-## Secure Code Analysis 
+## Secure Coding
 
-### Coverity Static Analysis. [✔]
+### Find Bugs [IDE Integration] [✔] 
 
-Identify critical quality defects and security vulnerabilities early in the SDL, when it’s least expensive to
+A  program which uses static analysis to look for bugs in Java code.  It is free software.
 
-remediate, with our comprehensive static analysis solution.
+### DevSkim [IDE Integration]
 
 ### Code Sight [IDE Integration]
 
@@ -27,13 +27,19 @@ Integrate application security analysis seamlessly into your *IntelliJ, Eclipse,
 
 >I have made contact with Code Sight production team in china , they will respond me ASAP about Android Studio .* 
 
-### Black Duck [OSS]
+### Coverity Static Analysis. [TFS Integration] [✔]
+
+Identify critical quality defects and security vulnerabilities early in the SDL, when it’s least expensive to
+
+remediate, with our comprehensive static analysis solution.
+
+### Black Duck [OSS] [TFS Integration]
 
 Detect and manage open source and third-party component risks in development and production with our industry-leading software composition analysis tools.
 
 
 
-### WhiteSource-Bolt [OSS]
+### WhiteSource-Bolt [OSS] [TFS Integration]
 
 > https://bolt.whitesourcesoftware.com/full-solution/
 
@@ -46,25 +52,11 @@ WhiteSource sends you immediate automatic alerts when:
 
 
 
-###  Defensics Dynamic Analysis
+## Secure Testing 
 
-> old name: Codenomicon
+### OPPO 慧眼分析平台 [✔]
 
-Test running applications for common security weaknesses and vulnerabilities with our innovative dynamic analysis offerings, Seeker interactive application security testing and Defensics fuzz testing.
-
-### Find Bugs [IDE Integration] [✔] 
-
-A  program which uses static analysis to look for bugs in Java code.  It is free software.
-
-
-
-### DevSkim-Java [IDE Integration]
-
-
-
-
-
-## Pen-Test 
+[OPPO 慧眼分析平台](HuiYan.md)  
 
 ### Drozer [✔]
 
@@ -125,9 +117,13 @@ syzkaller is an unsupervised coverage-guided kernel fuzzer.
 
 > https://github.com/google/honggfuzz
 
-### OPPO 慧眼分析平台 [✔]
+###  Defensics Dynamic Analysis 
 
-[OPPO 慧眼分析平台](HuiYan.md)  
+> old name: Codenomicon
+
+Test running applications for common security weaknesses and vulnerabilities with our innovative dynamic analysis offerings, Seeker interactive application security testing and Defensics fuzz testing.
+
+
 
 ## Others
 
@@ -135,3 +131,6 @@ syzkaller is an unsupervised coverage-guided kernel fuzzer.
 
 [FuzzingTools Suggested by OWASP](FuzzingTools.md) 
 
+### MSRD
+
+ [MSRD.md](MSRD.md) 
