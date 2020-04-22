@@ -11,20 +11,6 @@
 - [Why Fuzzing?](./Concepts/Fuzzing-Basics.md)
 - [OWASP Mobile Security](..\99.Concepts\OWASP.md) 
 
-
-
-## Analzyer
-
-| Name |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
-
-
-
-
 ## Secure Coding
 
 ### Find Bugs [IDE Integration] [✔] 
@@ -33,23 +19,15 @@ A  program which uses static analysis to look for bugs in Java code.  It is free
 
 ### DevSkim [IDE Integration]
 
-
-
-## Semmle
-
-
+### Semmle [IDE Integration]
 
 ### Code Sight [IDE Integration]
-
-https://www.youtube.com/watch?v=PR5g_1-MNkM
 
 Integrate application security analysis seamlessly into your *IntelliJ, Eclipse, or Visual Studio IDE* with the Polaris Code Sight™ IDE plugin.  It can also provide some suggestions about the code. It's analysis rule can be updated with the  server.
 
 ![image-20200417145607668](C:\Users\FenghuiXu\AppData\Roaming\Typora\typora-user-images\image-20200417145607668.png)
 
 >I have made contact with Code Sight production team in china , they will respond me ASAP about Android Studio .* 
-
-
 
 ### Coverity Static Analysis. [TFS Integration] [✔]
 
@@ -93,7 +71,7 @@ Comprehensive security and attack framework for Android.
 [Drozer](https://labs.f-secure.com/assets/BlogFiles/mwri-drozer-user-guide-2015-03-23.pdf) is open source software, released under a BSD license and maintained by MWR Info Security. 
 Drozer allows you to assume the role of an *Android app* and interact with other apps. It can do anything that an installed application can do, such as make use of Android’s Inter-Process Communication (IPC) mechanism and interact with the underlying operating system.
 
-Drozer also helps to you to remotely exploit Android devices, by building malicious files or web pages that exploit known vulnerabilities. The payload that is used in these exploits is a rogue drozer agent that is essentially a remote administration tool. Depending on the permissions granted to the vulnerable app, drozer can install a full agent, inject a limited agent into the process using a novel technique or spawn a reverse shell.
+Drozer also helps to you to remotely exploit Android devices, by building malicious files or web pages that exploit known vulnerabilities. The payload that is used in these exploits is a rogue drozer agent that is essentially a remote administration tool. Depending on the permissions granted to the vulnerable app, drozer can install a full agent, inject a limited agent into the process using a novel technique or spawn a reverse shell.****
 
 ### Android AFL [✔]
 
