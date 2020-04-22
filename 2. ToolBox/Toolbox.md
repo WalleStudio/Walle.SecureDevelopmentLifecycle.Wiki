@@ -1,25 +1,8 @@
-# Secure Tool box
+# Tool box
 
 [✔] OPPO Already In Use 
 
-
-
 [TOC]
-
-## Concepts
-
-- [Why Fuzzing?](./Concepts/Fuzzing-Basics.md)
-- [OWASP Mobile Security](..\99.Concepts\OWASP.md) 
-
-
-
-## Analzyer
-
-| Name |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
 
 
 
@@ -35,9 +18,14 @@ A  program which uses static analysis to look for bugs in Java code.  It is free
 
 
 
-###  Semmle
+###  Semmle CodeQL
 
+> https://semmle.com/case-studies/semmle-microsoft-vulnerability-hunting
+> https://lgtm.com/help/lgtm/getting-started
+> https://lgtm.com/help/lgtm/analysis-faqs#which-languages-are-supported
 
+CodeQL helps you explore code quickly to find and eradicate all variants of vulnerabilities before they become a problem.
+By automating variant analysis, CodeQL enables product security teams to find zero-days and variants of critical vulnerabilities.
 
 ### Code Sight [IDE Integration]
 
@@ -149,9 +137,9 @@ Test running applications for common security weaknesses and vulnerabilities wit
 
 
 
-## Others
+## Others Tools
 
-###  FuzzingTools Suggested by OWASP
+###  Fuzzing Tools Suggested by OWASP
 
 [FuzzingTools Suggested by OWASP](FuzzingTools.md) 
 
@@ -162,4 +150,9 @@ Test running applications for common security weaknesses and vulnerabilities wit
 ### Threat Modeling Tools
 
  [Threat Modeling Tools](..\5. Threat modeling\Tools.md) 
+
+## Concepts
+
+- [Why Fuzzing?](./Concepts/Fuzzing-Basics.md)
+- [OWASP Mobile Security](..\99.Concepts\OWASP.md) 
 
