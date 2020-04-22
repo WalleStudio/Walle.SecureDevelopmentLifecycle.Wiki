@@ -4,10 +4,6 @@
 
 [TOC]
 
-
-
-
-
 ## Secure Coding
 
 ### Find Bugs [IDE Integration] [✔] 
