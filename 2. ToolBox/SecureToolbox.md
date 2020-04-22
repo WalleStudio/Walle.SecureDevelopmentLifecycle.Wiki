@@ -35,7 +35,7 @@ A  program which uses static analysis to look for bugs in Java code.  It is free
 
 
 
-## Semmle
+###  Semmle
 
 
 
@@ -62,10 +62,10 @@ remediate, with our comprehensive static analysis solution.
 Detect and manage open source and third-party component risks in development and production with our industry-leading software composition analysis tools.
 
 
-
 ### WhiteSource-Bolt [OSS] [TFS Integration]
 
 > https://bolt.whitesourcesoftware.com/full-solution/
+> https://www.whitesourcesoftware.com/
 
 WhiteSource sends you immediate automatic alerts when:
 
@@ -157,4 +157,9 @@ Test running applications for common security weaknesses and vulnerabilities wit
 
 ### MSRD
 
- [MSRD.md](MSRD.md) 
+[MSRD](MSRD.md) 
+
+### Threat Modeling Tools
+
+ [Threat Modeling Tools](..\5. Threat modeling\Tools.md) 
+

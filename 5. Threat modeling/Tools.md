@@ -1,10 +1,47 @@
 # Threat Modeling Tools
 
+[TOC]
 
+## 1. MS Threat Modeling Tool
 
-微软的官方威胁建模工具。https://docs.microsoft.com/zh-cn/azure/security/azure-security-threat-modeling-tool ，可以访问https://github.com/AzureArchitecture/threat-model-templates下载最新的包含IOT信息的模板，该工具可以自动生成识别威胁报告，具备威胁库模板，强烈推荐使用。
+> For Learning:  https://docs.microsoft.com/zh-cn/azure/security/azure-security-threat-modeling-tool 
+> For Templates: https://github.com/AzureArchitecture/threat-model-templates 
+> For Download: https://aka.ms/threatmodelingtool 
+>
+> Main Site: https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
 
-## OWASP-threat-dragon
+The Threat Modeling Tool is a core element of the Microsoft Security Development Lifecycle (SDL). It allows software architects to identify and mitigate potential security issues early, when they are relatively easy and cost-effective to resolve. As a result, it greatly reduces the total cost of development. Also, we designed the tool with non-security experts in mind, making threat modeling easier for all developers by providing clear guidance on creating and analyzing threat models.
+
+The tool enables anyone to:
+
+- Communicate about the security design of their systems
+- Analyze those designs for potential security issues using a proven methodology
+- Suggest and manage mitigations for security issues
+
+Here are some tooling capabilities and innovations, just to name a few:
+
+- **Automation:** Guidance and feedback in drawing a model
+- **STRIDE per Element:** Guided analysis of threats and mitigations
+- **Reporting:** Security activities and testing in the verification phase
+- **Unique Methodology:** Enables users to better visualize and understand threats
+- **Designed for Developers and Centered on Software:** many approaches are centered on assets or attackers. We are centered on software. We build on activities that all software developers and architects are familiar with -- such as drawing pictures for their software architecture
+- **Focused on Design Analysis:** The term "threat modeling" can refer to either a requirements or a design analysis technique. Sometimes, it refers to a complex blend of the two. The Microsoft SDL approach to threat modeling is a focused design analysis technique
+
+###  How To:
+
+The table below contains important links to get you started with the Threat Modeling Tool:
+
+| Step  | Description                                                  |
+| :---: | :----------------------------------------------------------- |
+| **1** | [Download the Threat Modeling Tool](https://aka.ms/threatmodelingtool) |
+| **2** | [Read Our getting started guide](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started) |
+| **3** | [Get familiar with the features](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-feature-overview) |
+| **4** | [Learn about generated threat categories](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats) |
+| **5** | [Find mitigations to generated threats](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-mitigations) |
+
+## 2. Other Tools
+
+###  OWASP-threat-dragon
 
 > http://docs.threatdragon.org/ 
 >
@@ -14,17 +51,11 @@
 >
 > https://github.com/mike-goodwin/owasp-threat-dragon-desktop/releases
 
-用Electron实现了客户端，OWASP孵化项目 :
-
 ![image-20200422102425264](C:\Users\FenghuiXu\AppData\Roaming\Typora\typora-user-images\image-20200422102425264.png)
 
-
-
-## Octotrike
+###  Octotrike
 
 > https://www.octotrike.org/
-
-Octotrike是一种不同STRIDE的方法论， 是单独的excel文件，可以辅助提高威胁建模的效率和有效性。trike是一个统一的安全审计概念框架,从风险管理和资产为中心的角度用工具将威胁模型以相对可靠，可重复的方式实现，可以描述系统从其高级架构到其实现细节的安全特性。包含了一定的自动化攻击推导功能。
 
 Trike is an open source threat modeling methodology and tool. The project began in 2006 as an attempt to improve the efficiency and effectiveness of existing threat modeling methodologies, and is being actively used and developed. Trike is a platform-independent tool for systematic, computer-assisted threat modeling, from requirements through deployment.
 
@@ -32,9 +63,7 @@ Trike is an open source threat modeling methodology and tool. The project began 
 
 We are developing Trike v2 on GitHub (https://github.com/octotrike/trike). Our mailing lists are still here on SourceForge, and we're leaving the old code repository & releases up for archival purposes. Plus you probably want to use something while you're waiting for v2.
 
-
-
-## SeaSponge
+###  SeaSponge
 
 > https://github.com/mozilla/seasponge
 >
