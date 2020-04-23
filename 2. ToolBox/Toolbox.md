@@ -12,7 +12,7 @@ A  program which uses static analysis to look for bugs in Java code.  It is free
 
 ### DevSkim [IDE Integration]
 
-
+https://github.com/Microsoft/DevSkim
 
 ###  Semmle CodeQL
 
@@ -50,6 +50,7 @@ Detect and manage open source and third-party component risks in development and
 
 > https://bolt.whitesourcesoftware.com/full-solution/
 > https://www.whitesourcesoftware.com/
+> https://bolt.whitesourcesoftware.com/azure/
 
 WhiteSource sends you immediate automatic alerts when:
 
@@ -57,6 +58,8 @@ WhiteSource sends you immediate automatic alerts when:
 - **New security vulnerabilities** are discovered in components you’re using, you will even get alerts regarding historic versions you are not actively working on (unlike other tools, such as Black Duck Hub)
 - **New fixes** are released for any of the components used in your software
 - **Updates** are available of any of your software’s open source components
+
+
 
 
 
@@ -108,13 +111,6 @@ Fuzzing, which is simply providing potentially invalid, unexpected, or random da
 Android's build system supports fuzzing through the inclusion of [libFuzzer](http://llvm.org/docs/LibFuzzer.html) from the LLVM compiler infrastructure project project. ```LibFuzzer``` is linked with the library under test and handles all input selection, mutation, and crash reporting that occurs during a fuzzing session. LLVM's sanitizers are used to aid in memory corruption detection and code coverage metrics.
 
 
-
-
-### Mobile Security Framework [✔]
-
-> http://github.com/mwrlabs
-
-
 ### Syzkaller [✔]
 
 > https://github.com/google/syzkaller
@@ -124,6 +120,10 @@ syzkaller is an unsupervised coverage-guided kernel fuzzer.
 ###  Honggfuzz 
 
 > https://github.com/google/honggfuzz
+
+A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options. 
+
+**Android** - Android SDK/NDK. Also see [this detailed doc](https://github.com/google/honggfuzz/blob/master/docs/Android.md) on how to build and run it
 
 ###  Defensics Dynamic Analysis 
 
@@ -135,9 +135,11 @@ Test running applications for common security weaknesses and vulnerabilities wit
 
 ## Others Tools
 
-###  Fuzzing Tools Suggested by OWASP
+###  OWASP Series
 
 [FuzzingTools Suggested by OWASP](FuzzingTools.md) 
+
+ [OWASP All Tools](OWASP.md) 
 
 ### MSRD
 
