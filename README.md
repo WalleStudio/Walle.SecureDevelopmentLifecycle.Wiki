@@ -1,27 +1,16 @@
 # Microsoft Secure Development Lifecycle
 
-The Security Development Lifecycle (SDL) is a security assurance process that is focused on software development. As a company-wide initiative and a mandatory policy since 2004, the SDL has played a critical role in embedding security and privacy in software and culture at Microsoft. Combining a holistic and practical approach, the SDL aims to reduce the number and severity of vulnerabilities in software. The SDL introduces security and privacy throughout all phases of the development process. 
+## What Is SDL?
 
-![image-20200424151214101](../Images/image-20200424151214101.png)
+安全开发生命周期（SDL）是一个专注于软件开发的安全保证过程。 自2004年以来，作为Microsoft 公司范围的一项举措和一项强制性政策，SDL在将安全性和隐私性嵌入到Microsoft的软件和文化中起到了关键作用。 结合整体和实用方法，SDL旨在减少软件漏洞的数量和严重性。 SDL在开发过程的所有阶段都引入了安全性和隐私性。
 
-The Microsoft SDL is based on three core concepts—education, continuous process improvement, and accountability. The ongoing education and training of technical job roles within a software development group is critical. The appropriate investment in knowledge transfer helps organizations to react appropriately to changes in technology and the threat landscape. Because security risk is not static, the SDL places heavy emphasis on understanding the cause and effect of security vulnerabilities and requires regular evaluation 
+Microsoft SDL基于三个核心概念: **教育**，**持续过程改进**和**责任制**。 在软件开发小组中，对技术人员的持续教育和培训至关重要。 对知识转移进行适当的投资有助于组织对技术变化和威胁态势做出适当反应。 由于安全风险不是一成不变的，因此SDL十分重视了解安全漏洞的原因和影响，因此需要定期评估。
 
-![image-20200424151322560](../Images/image-20200424151322560.png)
-
-## Table Of Content
-
-[TOC]
-
-####  Why & What SDL  [Link](SDLBasic\SDL.md) 
-
-#### Training [Link]()
+![image-20200424151214101](./Images/image-20200424151214101.png)
+![image-20200424151322560](./Images/image-20200424151322560.png)
 
 
-#### ThreatModeling's Tool [Link](ThreatModeling\Tools.md) 
 
-#### Implementation's Tool  [Link](ToolBox\Toolbox.md)  
-
- 
 
 
 
