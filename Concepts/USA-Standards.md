@@ -14,8 +14,6 @@ https://www.us-cert.gov/bsi/knowledge
 
 https://www.us-cert.gov/bsi/articles/knowledge/sdlc-process
 
-
-
 https://www.securitycompass.com/
 
 https://www.isc2.org/

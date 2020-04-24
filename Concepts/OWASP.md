@@ -22,6 +22,3 @@
 
 [OWASP 移动应用安全验证标准(MASVS)-Github](OWASP Mobile Application Security Verification Standard )
 
-## How To
-
-![](D:\GitHub\Walle.SecureDevelopmentLifecycle.Wiki\Images\owasp-mobile-overview.jpg)

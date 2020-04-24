@@ -1,26 +1,28 @@
-## Train
+## Training Courses
 
-**The Basics of Secure Software Design, Development, and Testing**
+[TOC]
+
+### The Basics of Secure Software Design, Development, and Testing
 
 The Basics of Secure Software Design, Development, and Testing .This class introduces all engineers to the basics of security.
 
 
 
-**Fuzz Testing in Depth**
+### Fuzz Testing in Depth 
 
 Explained  **Secure Testing Policies.**  this class is an effective way to find certain classes of security bugs. This class explains how fuzz testing works, how to build effective fuzz tests, and how to identify
 fuzz-testing failures.
 
 
 
-**Threat Modeling in Depth** 
+### Threat Modeling in Depth 
 
 threat modeling is a method for uncovering design flaws in a software component before the component is
 built. This class, which includes a small exercise at the end, outlines the process.
 
 
 
-**Implementing Threat Mitigations** 
+### Implementing Threat Mitigations 
 
 This class begins where the threat-modeling class
 leaves off. The original threat-modeling class covered the threat-modeling process as
@@ -32,7 +34,7 @@ appropriate mitigations or countermeasures.
 
 
 
-**Security Design and Architecture**
+### Security Design and Architecture 
 
 Time-Tested Design Principles We touch on this subject
 in Chapter 7, “Stage 2: Define and Follow Design Best Practices.” Most software
@@ -44,7 +46,7 @@ Saltzer and Schroeder (Saltzer and Schroeder 1975).
 
 
 
-**Introduction to the SDL and Final Security Review (FSR) Process** 
+### Introduction to the SDL and Final Security Review (FSR) Process 
 
 This class covers the end-to-end SDL process, but most important, it prepares development groups for the
 final security review, outlining what they can expect during an FSR. The target audience
@@ -54,7 +56,7 @@ for all the SDL requirements.
 
 
 
-**Security Tools Overview** 
+### Security Tools Overview 
 
 There are many security tools available inside and outside
 Microsoft. This class covers some of the most important tools for performing code analysis,
@@ -63,7 +65,7 @@ fuzz testing.
 
 
 
-**Performing Security Code Reviews Very** 
+### Performing Security Code Reviews Very 
 
 few people know how to review code correctly for security bugs. This class teaches some of the critical skills, such as understanding
 lack of trustworthiness of most incoming data, as well as ranking system entry points by
@@ -72,7 +74,7 @@ dangerous interfaces into the application.
 
 
 
-**Secure Coding Practices**  
+### Secure Coding Practices 
 
 Going beyond “The Basics,” this class teaches developers how
 to create secure software not simply by applying best practice, but also by using good,
