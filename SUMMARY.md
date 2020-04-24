@@ -1,9 +1,9 @@
-# Table of Contents
+# Table of contents
 
 * [Microsoft Secure Development Lifecycle](README.md)
-  * [Secure Tools Box](SecureToolbox.md)
-    * [Index](./SecureToolBox.md)
-    * [Fuzzing Tools](./Tools/FuzzingTools.md)
-  * [Secure Coding Guide](./SecureCodingGuide.md)
-* [LICENSE](./LICENSE)
+* [Secure Tools Box](securetoolbox/README.md)
+  * [Index](securetoolbox/index.md)
+  * [Fuzzing Tools](securetoolbox/fuzzing-tools.md)
+* [Secure Coding Guide](secure-coding-guide.md)
+* [LICENSE](license.md)
 
