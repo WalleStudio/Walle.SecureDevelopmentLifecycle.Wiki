@@ -4,7 +4,7 @@
 
 ## Secure Coding
 
-### Find Bugs [IDE Integration] [✔] 
+### Find Bugs [IDE Integration] [✔]
 
 A  program which uses static analysis to look for bugs in Java code.  It is free software.
 
@@ -12,7 +12,7 @@ A  program which uses static analysis to look for bugs in Java code.  It is free
 
 https://github.com/Microsoft/DevSkim
 
-###  Semmle CodeQL
+### Semmle CodeQL
 
 > https://semmle.com/case-studies/semmle-microsoft-vulnerability-hunting
 > https://lgtm.com/help/lgtm/getting-started
@@ -29,7 +29,7 @@ Integrate application security analysis seamlessly into your *IntelliJ, Eclipse,
 
 ![image-20200417145607668](C:\Users\FenghuiXu\AppData\Roaming\Typora\typora-user-images\image-20200417145607668.png)
 
->I have made contact with Code Sight production team in china , they will respond me ASAP about Android Studio .* 
+>I have made contact with Code Sight production team in china , they will respond me ASAP about Android Studio .*
 
 
 
@@ -117,7 +117,7 @@ A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with inte
 
 **Android** - Android SDK/NDK. Also see [this detailed doc](https://github.com/google/honggfuzz/blob/master/docs/Android.md) on how to build and run it
 
-###  Defensics Dynamic Analysis 
+###  Defensics Dynamic Analysis
 
 > old name: Codenomicon
 
