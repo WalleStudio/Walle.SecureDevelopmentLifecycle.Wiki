@@ -38,3 +38,12 @@ http://www.securingjava.com/
 ### 6. Secure Programming HOWTO - Creating Secure Software
 
 https://dwheeler.com/secure-programs/
+### 5. CWE library
+
+**CWE™** is a community-developed list of common software and hardware security weaknesses. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts.
+
+> https://cwe.mitre.org/data/index.html
+
+This view organizes weaknesses around concepts that are frequently used or encountered in software development. This includes all aspects of the software development lifecycle including both architecture and implementation. Accordingly, this view can align closely with the perspectives of architects, developers, educators, and assessment vendors. It provides a variety of categories that are intended to simplify navigation, browsing, and mapping.
+
+> https://cwe.mitre.org/data/definitions/699.html
